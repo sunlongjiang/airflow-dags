@@ -1,0 +1,9 @@
+# Default ignored files
+.idea/
+data_warehouse/.DS_Store
+data_warehouse/.idea/
+data_warehouse_etl/.DS_Store
+data_warehouse_etl/.idea/
+.DS_Store
+/data_warehouse_etl/test/tmp/
+.idea/material_theme_project_new.xml
